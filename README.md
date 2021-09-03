@@ -6,3 +6,4 @@ some anopther text in english
 
 ##local devops
 1.open your index.html in your brouther 
+2.HAVE fun beac...
